@@ -69,6 +69,7 @@ Part C – Online Account Security Check :-
 Part D – Cyber Threat Research :-
 
 1. Phishing
+   
    Definition
 Phishing is a cyberattack where criminals send fake emails, messages, or websites to trick users into revealing sensitive information such as passwords or banking details.
 
@@ -82,7 +83,8 @@ Enable MFA.
 Check website URLs carefully.
 Use email spam filters.
 
-3. Malware
+2. Malware
+   
    Definition
 Malware is malicious software designed to damage computers, steal information, or disrupt normal operations.
 
@@ -97,6 +99,7 @@ Avoid suspicious email attachments.
 Scan downloaded files.
 
 3. Ransomware
+   
    Definition
 Ransomware encrypts files and demands payment to restore access.
 
@@ -110,7 +113,8 @@ Use antivirus protection.
 Avoid opening unknown attachments.
 Enable firewall protection.
 
-5. Social Engineering
+4. Social Engineering
+   
    Definition
 Social engineering is the manipulation of people into revealing confidential information instead of exploiting technical vulnerabilities.
 
@@ -125,6 +129,7 @@ Educate users.
 Report suspicious activities.
 
 5. Data Breach
+   
    Definition
 A data breach occurs when unauthorized individuals gain access to confidential or sensitive information.
 
