@@ -1,0 +1,9 @@
+Device Security Assessment
+
+| Item                   | Your Details           |
+| ---------------------- | ---------------------- |
+| Operating System       | Windows 11             |
+| OS Version             | 25H2                   |
+| Is the system updated? | Yes                    |
+| Antivirus Installed?   | Yes                    |
+| Firewall Enabled?      | Yes                    |
