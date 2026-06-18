@@ -1,6 +1,7 @@
 # Cyber-Security-Task-01  Personal Security Audit & Cyber Awareness Assessment
 
 Objective
+
 The purpose of this task is to help students understand basic cybersecurity concepts by assessing their
 own digital security practices and identifying potential risks.
 Cybersecurity starts with securing yourself before securing systems and networks.
