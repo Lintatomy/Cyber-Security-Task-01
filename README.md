@@ -21,15 +21,18 @@ OS Version
 
 <img width="550" height="346" alt="OS_Version" src="https://github.com/user-attachments/assets/122affac-f6e7-4ac5-8ae5-a073523a6ef7" />
 
-
 Is the system updated?
+
 <img width="1357" height="211" alt="Windows_Update" src="https://github.com/user-attachments/assets/37898170-9686-48ec-bc7b-14bb4235b40c" />
 
 Antivirus Installed? (Yes)
+
 <img width="771" height="865" alt="Antivirus" src="https://github.com/user-attachments/assets/f3fe7a16-0dd2-4d2e-b9fd-cb10a91e5977" />
 
 Firewall Enabled? (Yes)
+
 <img width="781" height="763" alt="Firewall" src="https://github.com/user-attachments/assets/00b5725c-8d0d-4e0e-a9f7-6aa377537577" />
+
 
 
 Part B: Password Security Review :-
@@ -50,13 +53,9 @@ Financial loss can occur.
 Identity theft becomes easier.
 Hackers can perform credential stuffing attacks.
 
-Password Policy (5 Best Practices)
+Password Policy (5 Best Practices) detailed in Password Policy.txt
 
-Use at least 12–16 characters.
-Include uppercase, lowercase, numbers, and symbols.
-Never reuse passwords across different accounts.
-Avoid personal information like birthdays or names.
-Enable Multi-Factor Authentication whenever possible.
+
 
 Part C – Online Account Security Check :-
 
